@@ -1,7 +1,7 @@
 #!/bin/bash
 # Verifica se o número de argumentos é válido
 json_file="C:\Users\h8men\OneDrive\Documentos\Cefet\TCC\result.json"
-
+log_file="C:\Users\h8men\OneDrive\Documentos\Cefet\TCC\shellErrors.log"
 for row in $(jq -r '.[] | .[2]' "${json_file}"); do
     echo "URL encontrada: ${row}"
 
@@ -14,8 +14,7 @@ for row in $(jq -r '.[] | .[2]' "${json_file}"); do
     git clone "$github_url" "$repo_name"
 
     if [ "$?" -ne 0 ]; then
-        echo 'Erro ao clonar o repositório do GitHub. Verifique a URL fornecida.'
-        exit 1
+        echo "Erro ao clonar o repositório do GitHub. ${row}" >> "$log_file"
     fi
 
     # Executa o comando Java com os parâmetros fornecidos
