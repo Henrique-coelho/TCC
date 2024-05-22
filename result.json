@@ -81,49 +81,49 @@
         14,
         213321771,
         "https://github.com/alldatacenter/alldata",
-        "\ud83d\udd25\ud83d\udd25 AllData\u5927\u6570\u636e\u4ea7\u54c1\u662f\u53ef\u5b9a\u4e49\u6570\u636e\u4e2d\u53f0\uff0c\u4ee5\u6570\u636e\u5e73\u53f0\u4e3a\u5e95\u5ea7\uff0c\u4ee5\u6570\u636e\u4e2d\u53f0\u4e3a\u6865\u6881\uff0c\u4ee5\u673a\u5668\u5b66\u4e60\u5e73\u53f0\u4e3a\u4e2d\u5c42\u6846\u67b6\uff0c\u4ee5\u5927\u6a21\u578b\u5e94\u7528\u4e3a\u4e0a\u6e38\u4ea7\u54c1\uff0c\u63d0\u4f9b\u5168\u94fe\u8def\u6570\u5b57\u5316\u89e3\u51b3\u65b9\u6848\u3002\u5fae\u4fe1\u7fa4\uff1ahttps://docs.qq.com/doc/DVHlkSEtvVXVCdEFo"
+        "\ud83d\udd25\ud83d\udd25 AllData\u5927\u6570\u636e\u4ea7\u54c1\u662f\u53ef\u5b9a\u4e49\u6570\u636e\u4e2d\u53f0\uff0c\u4ee5\u6570\u636e\u5e73\u53f0\u4e3a\u5e95\u5ea7\uff0c\u4ee5\u6570\u636e\u4e2d\u53f0\u4e3a\u6865\u6881\uff0c\u4ee5\u673a\u5668\u5b66\u4e60\u5e73\u53f0\u4e3a\u4e2d\u5c42\u6846\u67b6\uff0c\u4ee5\u5927\u6a21\u578b\u5e94\u7528\u4e3a\u4e0a\u6e38\u4ea7\u54c1\uff0c\u63d0\u4f9b\u5168\u94fe\u8def\u6570\u5b57\u5316\u89e3\u51b3\u65b9\u6848\u3002\u5168\u65b0\u4f1a\u5458\u5546\u4e1a\u7248 X \u5fae\u4fe1\u7fa4\uff1ahttps://docs.qq.com/doc/DVHlkSEtvVXVCdEFo"
     ],
     [
         15,
+        659402878,
+        "https://github.com/spring-projects/spring-ai",
+        "An Application Framework for AI Engineering"
+    ],
+    [
+        16,
         87506995,
         "https://github.com/ICT-BDA/EasyML",
         "Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks."
     ],
     [
-        16,
+        17,
         22269384,
         "https://github.com/OryxProject/oryx",
         "Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning"
     ],
     [
-        17,
+        18,
         71305435,
         "https://github.com/VertaAI/modeldb",
         "Open Source ML Model Versioning, Metadata, and Experiment Management"
     ],
     [
-        18,
+        19,
         30649762,
         "https://github.com/SeldonIO/seldon-server",
         "Machine Learning Platform and Recommendation Engine built on Kubernetes"
     ],
     [
-        19,
+        20,
         77308564,
         "https://github.com/o19s/elasticsearch-learning-to-rank",
         "Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch"
     ],
     [
-        20,
+        21,
         84030164,
         "https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample",
         "Android TensorFlow MachineLearning Example (Building TensorFlow for Android)"
-    ],
-    [
-        21,
-        272672735,
-        "https://github.com/oracle/tribuo",
-        "Tribuo - A Java machine learning library"
     ],
     [
         22,
@@ -133,9 +133,9 @@
     ],
     [
         23,
-        659402878,
-        "https://github.com/spring-projects/spring-ai",
-        "An Application Framework for AI Engineering"
+        272672735,
+        "https://github.com/oracle/tribuo",
+        "Tribuo - A Java machine learning library"
     ],
     [
         24,
@@ -145,33 +145,33 @@
     ],
     [
         25,
-        25405542,
-        "https://github.com/datumbox/datumbox-framework",
-        "Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications."
-    ],
-    [
-        26,
-        147803317,
-        "https://github.com/beehive-lab/TornadoVM",
-        "TornadoVM: A practical and efficient heterogeneous programming framework for managed languages"
-    ],
-    [
-        27,
         142410331,
         "https://github.com/logicalclocks/hopsworks",
         "Hopsworks - Data-Intensive AI platform with a Feature Store"
     ],
     [
-        28,
+        26,
+        25405542,
+        "https://github.com/datumbox/datumbox-framework",
+        "Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications."
+    ],
+    [
+        27,
         22690513,
         "https://github.com/mahmoudparsian/data-algorithms-book",
         " MapReduce, Spark, Java, and Scala for Data Algorithms Book"
     ],
     [
-        29,
+        28,
         66772740,
         "https://github.com/qupath/qupath",
         "QuPath - Bioimage analysis & digital pathology"
+    ],
+    [
+        29,
+        353992692,
+        "https://github.com/jenly1314/MLKit",
+        "\ud83c\udf1d  MLKit\u662f\u4e00\u4e2a\u5f3a\u5927\u6613\u7528\u7684\u5de5\u5177\u5305\u3002\u901a\u8fc7ML Kit\u60a8\u53ef\u4ee5\u5f88\u8f7b\u677e\u7684\u5b9e\u73b0\u6587\u5b57\u8bc6\u522b\u3001\u6761\u7801\u8bc6\u522b\u3001\u56fe\u50cf\u6807\u8bb0\u3001\u4eba\u8138\u68c0\u6d4b\u3001\u5bf9\u8c61\u68c0\u6d4b\u7b49\u529f\u80fd\u3002"
     ],
     [
         30,
@@ -187,93 +187,93 @@
     ],
     [
         32,
-        353992692,
-        "https://github.com/jenly1314/MLKit",
-        "\ud83c\udf1d  MLKit\u662f\u4e00\u4e2a\u5f3a\u5927\u6613\u7528\u7684\u5de5\u5177\u5305\u3002\u901a\u8fc7ML Kit\u60a8\u53ef\u4ee5\u5f88\u8f7b\u677e\u7684\u5b9e\u73b0\u6587\u5b57\u8bc6\u522b\u3001\u6761\u7801\u8bc6\u522b\u3001\u56fe\u50cf\u6807\u8bb0\u3001\u4eba\u8138\u68c0\u6d4b\u3001\u5bf9\u8c61\u68c0\u6d4b\u7b49\u529f\u80fd\u3002"
-    ],
-    [
-        33,
         32772468,
         "https://github.com/EdwardRaff/JSAT",
         "Java Statistical Analysis Tool, a Java library for Machine Learning "
     ],
     [
-        34,
+        33,
         31661940,
         "https://github.com/elki-project/elki",
         "ELKI Data Mining Toolkit "
     ],
     [
-        35,
+        34,
         125595640,
         "https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example",
         "Android TensorFlow Lite Machine Learning Example"
     ],
     [
-        36,
+        35,
         124719143,
         "https://github.com/yuxitong/TensorFlowAndroidDemo",
         "TensorFlow android demo \u8f66\u9053\u7ebf \u8f66\u8f86 \u4eba\u8138 \u52a8\u4f5c \u9aa8\u67b6 \u8bc6\u522b \u68c0\u6d4b \u62bd\u70df \u6253\u7535\u8bdd \u95ed\u773c \u7741\u773c"
     ],
     [
-        37,
+        36,
         148223447,
         "https://github.com/tony-framework/TonY",
         "TonY is a framework to natively run deep learning frameworks on Apache Hadoop."
     ],
     [
-        38,
+        37,
         209459144,
         "https://github.com/apache/submarine",
         "Submarine is Cloud Native Machine Learning Platform."
     ],
     [
-        39,
+        38,
         620363420,
         "https://github.com/TimefoldAI/timefold-solver",
         "The open source AI solver. Timefold is the successor of OptaPlanner, by the OptaPlanner team. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems"
     ],
     [
-        40,
+        39,
         194897,
         "https://github.com/jblas-project/jblas",
         "Linear Algebra for Java"
     ],
     [
-        41,
+        40,
         19367053,
         "https://github.com/Waikato/moa",
         "MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation."
     ],
     [
-        42,
+        41,
         43274159,
         "https://github.com/BotLibre/BotLibre",
         "An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation."
     ],
     [
-        43,
+        42,
         84253677,
         "https://github.com/knime/knime-core",
         "KNIME Analytics Platform"
     ],
     [
-        44,
+        43,
         6123097,
         "https://github.com/CeON/CERMINE",
         "Content ExtRactor and MINEr"
     ],
     [
-        45,
+        44,
         85210314,
         "https://github.com/amitshekhariitbhu/AndroidTensorFlowMNISTExample",
         "Android TensorFlow MachineLearning MNIST Example (Building Model with TensorFlow for Android)"
     ],
     [
-        46,
+        45,
         13365821,
         "https://github.com/optimatika/ojAlgo",
         "oj! Algorithms"
+    ],
+    [
+        46,
+        69562331,
+        "https://github.com/ls1intum/Artemis",
+        "Artemis - Interactive Learning with Automated Feedback"
     ],
     [
         47,
@@ -283,21 +283,21 @@
     ],
     [
         48,
-        69562331,
-        "https://github.com/ls1intum/Artemis",
-        "Artemis - Interactive Learning with Automated Feedback"
-    ],
-    [
-        49,
         249609964,
         "https://github.com/wuba/dl_inference",
         "\u901a\u7528\u6df1\u5ea6\u5b66\u4e60\u63a8\u7406\u5de5\u5177\uff0c\u53ef\u5728\u751f\u4ea7\u73af\u5883\u4e2d\u5feb\u901f\u4e0a\u7ebf\u7531TensorFlow\u3001PyTorch\u3001Caffe\u6846\u67b6\u8bad\u7ec3\u51fa\u7684\u6df1\u5ea6\u5b66\u4e60\u6a21\u578b\u3002"
     ],
     [
-        50,
+        49,
         65136727,
         "https://github.com/hanuor/onyx",
         "An android library that uses technologies like artificial Intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app."
+    ],
+    [
+        50,
+        265994353,
+        "https://github.com/HMS-Core/hms-ml-demo",
+        "HMS ML Demo provides an example of integrating Huawei ML Kit service into applications. This example demonstrates how to integrate services provided by ML Kit, such as face detection, text recognition, image segmentation, asr, and tts. "
     ],
     [
         51,
@@ -307,27 +307,27 @@
     ],
     [
         52,
-        265994353,
-        "https://github.com/HMS-Core/hms-ml-demo",
-        "HMS ML Demo provides an example of integrating Huawei ML Kit service into applications. This example demonstrates how to integrate services provided by ML Kit, such as face detection, text recognition, image segmentation, asr, and tts. "
-    ],
-    [
-        53,
         45342258,
         "https://github.com/komiya-atsushi/xgboost-predictor-java",
         "Pure Java implementation of XGBoost predictor for online prediction tasks."
     ],
     [
-        54,
+        53,
         56810670,
         "https://github.com/graphaware/neo4j-nlp",
         "NLP Capabilities in Neo4j"
     ],
     [
-        55,
+        54,
         38152816,
         "https://github.com/modernmt/modernmt",
         "Neural Adaptive Machine Translation that adapts to context and learns from corrections."
+    ],
+    [
+        55,
+        15590153,
+        "https://github.com/bnjmn/weka",
+        "Now redundant weka mirror. Visit https://github.com/Waikato/weka-trunk for the real deal"
     ],
     [
         56,
@@ -337,111 +337,111 @@
     ],
     [
         57,
-        15590153,
-        "https://github.com/bnjmn/weka",
-        "Now redundant weka mirror. Visit https://github.com/Waikato/weka-trunk for the real deal"
-    ],
-    [
-        58,
         288669538,
         "https://github.com/apache/incubator-kie-optaplanner-quickstarts",
         "OptaPlanner quick starts for AI optimization: many use cases shown in many different technologies."
     ],
     [
-        59,
+        58,
         3681062,
         "https://github.com/ptnplanet/Java-Naive-Bayes-Classifier",
         "A java classifier based on the naive Bayes approach complete with Maven support and a runnable example."
     ],
     [
-        60,
+        59,
         351617021,
         "https://github.com/apache/flink-ml",
         "Machine learning library of Apache Flink"
     ],
     [
-        61,
+        60,
         142325304,
         "https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot",
         "Deep Learning UDF for KSQL for Streaming Anomaly Detection of MQTT IoT Sensor Data"
     ],
     [
-        62,
+        61,
         90399066,
         "https://github.com/trishullab/bayou",
         "System for synthesizing Java API idioms, powered by Neural Sketch Learning"
     ],
     [
-        63,
+        62,
         386275157,
         "https://github.com/optapy/optapy",
         "OptaPy is an AI constraint solver for Python to optimize planning and scheduling problems."
     ],
     [
-        64,
+        63,
         2344488,
         "https://github.com/evllabs/JGAAP",
         "The Java Graphical Authorship Attribution Program"
     ],
     [
-        65,
-        8583632,
-        "https://github.com/pushkar/ABAGAIL",
-        "The library contains a number of interconnected Java packages that implement machine learning and artificial intelligence algorithms. These are artificial intelligence algorithms implemented for the kind of people that like to implement algorithms themselves."
-    ],
-    [
-        66,
+        64,
         19008910,
         "https://github.com/ShifuML/shifu",
         "An end-to-end machine learning and data mining framework on Hadoop"
     ],
     [
-        67,
-        74102477,
-        "https://github.com/Jasonnor/Backpropagation",
-        "Implementing multilayer neural networks through backpropagation using Java."
-    ],
-    [
-        68,
+        65,
         276713778,
         "https://github.com/projectmatris/antimalwareapp",
         "Anti-malware for Android using machine learning"
     ],
     [
-        69,
-        2425118,
-        "https://github.com/sanity/quickml",
-        "A fast and easy to use decision tree learner in java"
+        66,
+        74102477,
+        "https://github.com/Jasonnor/Backpropagation",
+        "Implementing multilayer neural networks through backpropagation using Java."
     ],
     [
-        70,
-        34623357,
-        "https://github.com/mcekovic/tennis-crystal-ball",
-        "Ultimate Tennis Statistics and Tennis Crystal Ball - Tennis Big Data Analysis and Prediction"
+        67,
+        8583632,
+        "https://github.com/pushkar/ABAGAIL",
+        "The library contains a number of interconnected Java packages that implement machine learning and artificial intelligence algorithms. These are artificial intelligence algorithms implemented for the kind of people that like to implement algorithms themselves."
     ],
     [
-        71,
+        68,
         61073916,
         "https://github.com/kermitt2/entity-fishing",
         "A machine learning tool for fishing entities"
     ],
     [
-        72,
+        69,
+        34623357,
+        "https://github.com/mcekovic/tennis-crystal-ball",
+        "Ultimate Tennis Statistics and Tennis Crystal Ball - Tennis Big Data Analysis and Prediction"
+    ],
+    [
+        70,
+        2425118,
+        "https://github.com/sanity/quickml",
+        "A fast and easy to use decision tree learner in java"
+    ],
+    [
+        71,
         81030108,
         "https://github.com/vinhkhuc/JFastText",
         "Java interface for fastText"
     ],
     [
-        73,
+        72,
         93215849,
         "https://github.com/CalebFenton/apkfile",
         "Android app analysis and feature extraction library"
     ],
     [
-        74,
+        73,
         339779618,
         "https://github.com/Araxeus/PNG-Upscale",
         "AI Super - Resolution"
+    ],
+    [
+        74,
+        639342283,
+        "https://github.com/woheller69/gptAssist",
+        "gptAssist is a simple WebView wrapper for ChatGPT"
     ],
     [
         75,
@@ -463,15 +463,15 @@
     ],
     [
         78,
-        639342283,
-        "https://github.com/woheller69/gptAssist",
-        "gptAssist is a simple WebView wrapper for ChatGPT"
-    ],
-    [
-        79,
         63331841,
         "https://github.com/afsalashyana/FakeImageDetection",
         "Fake Image Detection Using Machine Learning"
+    ],
+    [
+        79,
+        10172073,
+        "https://github.com/LearnLib/learnlib",
+        "A free, open-source Java library for automata learning algorithms"
     ],
     [
         80,

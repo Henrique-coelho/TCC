@@ -19,7 +19,7 @@ for row in $(jq -r '.[] | .[2]' "${json_file}"); do
 
     # Executa o comando Java com os parâmetros fornecidos
     metrics_repo='C:\Users\h8men\OneDrive\Documentos\Cefet\TCC\metrics\'
-    java -jar ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar "$repo_name" true 0 False "${metrics_repo}${repo_name}"
+    java -jar ck-0.7.1-SNAPSHOT-jar-with-dependencies.jar "$repo_name" true 0 false "${metrics_repo}${repo_name}"
 
 
     echo "Deletando o diretório original: $repo_name"
