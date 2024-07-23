@@ -6,12 +6,6 @@
         "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation."
     ],
     [
-        2,
-        87536046,
-        "https://github.com/janishar/mit-deep-learning-book-pdf",
-        "MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville"
-    ],
-    [
         3,
         89322848,
         "https://github.com/Angel-ML/angel",
@@ -24,22 +18,10 @@
         "Statistical Machine Intelligence & Learning Engine"
     ],
     [
-        5,
-        51646530,
-        "https://github.com/Vedenin/useful-java-links",
-        "A list of useful Java frameworks, libraries, software and hello worlds examples"
-    ],
-    [
         6,
         60377070,
         "https://github.com/vespa-engine/vespa",
         "AI + Data, online. https://vespa.ai"
-    ],
-    [
-        7,
-        212488700,
-        "https://github.com/pytorch/serve",
-        "Serve, optimize and scale PyTorch models in production"
     ],
     [
         8,
@@ -84,12 +66,6 @@
         "\ud83d\udd25\ud83d\udd25 AllData\u5927\u6570\u636e\u4ea7\u54c1\u662f\u53ef\u5b9a\u4e49\u6570\u636e\u4e2d\u53f0\uff0c\u4ee5\u6570\u636e\u5e73\u53f0\u4e3a\u5e95\u5ea7\uff0c\u4ee5\u6570\u636e\u4e2d\u53f0\u4e3a\u6865\u6881\uff0c\u4ee5\u673a\u5668\u5b66\u4e60\u5e73\u53f0\u4e3a\u4e2d\u5c42\u6846\u67b6\uff0c\u4ee5\u5927\u6a21\u578b\u5e94\u7528\u4e3a\u4e0a\u6e38\u4ea7\u54c1\uff0c\u63d0\u4f9b\u5168\u94fe\u8def\u6570\u5b57\u5316\u89e3\u51b3\u65b9\u6848\u3002\u5168\u65b0\u4f1a\u5458\u5546\u4e1a\u7248 X \u5fae\u4fe1\u7fa4\uff1ahttps://docs.qq.com/doc/DVHlkSEtvVXVCdEFo"
     ],
     [
-        15,
-        659402878,
-        "https://github.com/spring-projects/spring-ai",
-        "An Application Framework for AI Engineering"
-    ],
-    [
         16,
         87506995,
         "https://github.com/ICT-BDA/EasyML",
@@ -126,12 +102,6 @@
         "Android TensorFlow MachineLearning Example (Building TensorFlow for Android)"
     ],
     [
-        22,
-        682834027,
-        "https://github.com/jbellis/jvector",
-        "JVector: the most advanced embedded vector search engine"
-    ],
-    [
         23,
         272672735,
         "https://github.com/oracle/tribuo",
@@ -144,22 +114,10 @@
         "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines"
     ],
     [
-        25,
-        142410331,
-        "https://github.com/logicalclocks/hopsworks",
-        "Hopsworks - Data-Intensive AI platform with a Feature Store"
-    ],
-    [
         26,
         25405542,
         "https://github.com/datumbox/datumbox-framework",
         "Datumbox is an open-source Machine Learning framework written in Java which allows the rapid development of Machine Learning and Statistical applications."
-    ],
-    [
-        27,
-        22690513,
-        "https://github.com/mahmoudparsian/data-algorithms-book",
-        " MapReduce, Spark, Java, and Scala for Data Algorithms Book"
     ],
     [
         28,
@@ -252,12 +210,6 @@
         "KNIME Analytics Platform"
     ],
     [
-        43,
-        6123097,
-        "https://github.com/CeON/CERMINE",
-        "Content ExtRactor and MINEr"
-    ],
-    [
         44,
         85210314,
         "https://github.com/amitshekhariitbhu/AndroidTensorFlowMNISTExample",
@@ -318,165 +270,9 @@
         "NLP Capabilities in Neo4j"
     ],
     [
-        54,
-        38152816,
-        "https://github.com/modernmt/modernmt",
-        "Neural Adaptive Machine Translation that adapts to context and learns from corrections."
-    ],
-    [
-        55,
-        15590153,
-        "https://github.com/bnjmn/weka",
-        "Now redundant weka mirror. Visit https://github.com/Waikato/weka-trunk for the real deal"
-    ],
-    [
         56,
         75713433,
         "https://github.com/wepe/tgboost",
         "Tiny Gradient Boosting Tree"
-    ],
-    [
-        57,
-        288669538,
-        "https://github.com/apache/incubator-kie-optaplanner-quickstarts",
-        "OptaPlanner quick starts for AI optimization: many use cases shown in many different technologies."
-    ],
-    [
-        58,
-        3681062,
-        "https://github.com/ptnplanet/Java-Naive-Bayes-Classifier",
-        "A java classifier based on the naive Bayes approach complete with Maven support and a runnable example."
-    ],
-    [
-        59,
-        351617021,
-        "https://github.com/apache/flink-ml",
-        "Machine learning library of Apache Flink"
-    ],
-    [
-        60,
-        142325304,
-        "https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot",
-        "Deep Learning UDF for KSQL for Streaming Anomaly Detection of MQTT IoT Sensor Data"
-    ],
-    [
-        61,
-        90399066,
-        "https://github.com/trishullab/bayou",
-        "System for synthesizing Java API idioms, powered by Neural Sketch Learning"
-    ],
-    [
-        62,
-        386275157,
-        "https://github.com/optapy/optapy",
-        "OptaPy is an AI constraint solver for Python to optimize planning and scheduling problems."
-    ],
-    [
-        63,
-        2344488,
-        "https://github.com/evllabs/JGAAP",
-        "The Java Graphical Authorship Attribution Program"
-    ],
-    [
-        64,
-        19008910,
-        "https://github.com/ShifuML/shifu",
-        "An end-to-end machine learning and data mining framework on Hadoop"
-    ],
-    [
-        65,
-        276713778,
-        "https://github.com/projectmatris/antimalwareapp",
-        "Anti-malware for Android using machine learning"
-    ],
-    [
-        66,
-        74102477,
-        "https://github.com/Jasonnor/Backpropagation",
-        "Implementing multilayer neural networks through backpropagation using Java."
-    ],
-    [
-        67,
-        8583632,
-        "https://github.com/pushkar/ABAGAIL",
-        "The library contains a number of interconnected Java packages that implement machine learning and artificial intelligence algorithms. These are artificial intelligence algorithms implemented for the kind of people that like to implement algorithms themselves."
-    ],
-    [
-        68,
-        61073916,
-        "https://github.com/kermitt2/entity-fishing",
-        "A machine learning tool for fishing entities"
-    ],
-    [
-        69,
-        34623357,
-        "https://github.com/mcekovic/tennis-crystal-ball",
-        "Ultimate Tennis Statistics and Tennis Crystal Ball - Tennis Big Data Analysis and Prediction"
-    ],
-    [
-        70,
-        2425118,
-        "https://github.com/sanity/quickml",
-        "A fast and easy to use decision tree learner in java"
-    ],
-    [
-        71,
-        81030108,
-        "https://github.com/vinhkhuc/JFastText",
-        "Java interface for fastText"
-    ],
-    [
-        72,
-        93215849,
-        "https://github.com/CalebFenton/apkfile",
-        "Android app analysis and feature extraction library"
-    ],
-    [
-        73,
-        339779618,
-        "https://github.com/Araxeus/PNG-Upscale",
-        "AI Super - Resolution"
-    ],
-    [
-        74,
-        639342283,
-        "https://github.com/woheller69/gptAssist",
-        "gptAssist is a simple WebView wrapper for ChatGPT"
-    ],
-    [
-        75,
-        160455791,
-        "https://github.com/HongZhaoHua/jstarcraft-ai",
-        "\u76ee\u6807\u662f\u63d0\u4f9b\u4e00\u4e2a\u5b8c\u6574\u7684Java\u673a\u5668\u5b66\u4e60(Machine Learning/ML)\u6846\u67b6,\u4f5c\u4e3a\u4eba\u5de5\u667a\u80fd\u5728\u5b66\u672f\u754c\u4e0e\u5de5\u4e1a\u754c\u7684\u6865\u6881.  \u8ba9\u76f8\u5173\u9886\u57df\u7684\u7814\u53d1\u4eba\u5458\u80fd\u591f\u5728\u5404\u79cd\u8f6f\u786c\u4ef6\u73af\u5883/\u6570\u636e\u7ed3\u6784/\u7b97\u6cd5/\u6a21\u578b\u4e4b\u95f4\u65e0\u7f1d\u5207\u6362.  \u6db5\u76d6\u4e86\u4ece\u6570\u636e\u5904\u7406\u5230\u6a21\u578b\u7684\u8bad\u7ec3\u4e0e\u8bc4\u4f30\u5404\u4e2a\u73af\u8282,\u652f\u6301\u786c\u4ef6\u52a0\u901f\u548c\u5e76\u884c\u8ba1\u7b97,\u662f\u6700\u5feb\u6700\u5168\u7684Java\u673a\u5668\u5b66\u4e60\u5e93."
-    ],
-    [
-        76,
-        102351835,
-        "https://github.com/RumbleDB/rumble",
-        "\u26c8\ufe0f RumbleDB 1.21.0 \"Hawthorn blossom\" \ud83c\udf33  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more"
-    ],
-    [
-        77,
-        173727613,
-        "https://github.com/Pradyuman7/LookAtMe",
-        "VideoView that plays video only when :eyes: are open and :boy: is detected with various other features"
-    ],
-    [
-        78,
-        63331841,
-        "https://github.com/afsalashyana/FakeImageDetection",
-        "Fake Image Detection Using Machine Learning"
-    ],
-    [
-        79,
-        10172073,
-        "https://github.com/LearnLib/learnlib",
-        "A free, open-source Java library for automata learning algorithms"
-    ],
-    [
-        80,
-        45508361,
-        "https://github.com/Waikato/meka",
-        "Multi-label classifiers and evaluation procedures using the Weka machine learning framework."
     ]
 ]
